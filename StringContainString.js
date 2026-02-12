@@ -7,7 +7,7 @@ class StringContainString{
         if(Str.indexOf(word) !== -1){
 
             return "String is found"
-        }
+        
 else{
     return "Not found"
 }
